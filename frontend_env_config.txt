@@ -1,8 +1,0 @@
-# Configurações de ambiente para o frontend em produção
-# Crie um arquivo .env.production na raiz do seu projeto frontend com essas configurações
-
-# URL da API backend (substitua pelo seu usuário do PythonAnywhere)
-REACT_APP_API_URL=https://seuusuario.pythonanywhere.com
-
-# URL do serviço de tradução (ajuste conforme necessário)
-REACT_APP_TRANSLATE_API_URL=https://libretranslate.com 
